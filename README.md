@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto criado durante o curso HTML5 e CSS3 do CursoemVideo (módulo 3) onde pude desenvolver uma página com efeito Parallax.
 
 
- <a href="https://adrianocosta01.github.io/projeto-android/">Visite o projeto online</a>
+ <a href="https://adrianocosta01.github.io/projeto-cordel/">Visite o projeto online</a>
 
 
 ## 📝 Licença
