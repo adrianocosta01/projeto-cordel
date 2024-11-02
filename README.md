@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Projeto Cordel>
+<h1 style="text-align: center;">Projeto Cordel</h1>
 
 ## 🚀 Tecnologias
 
